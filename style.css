@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    display: inline;
+}
+
+.div1 a {
+    text-align: right;
+}
+
+.app_main {
+    background-image: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url(https://abel-tech.us/wp-content/themes/abel-tech-wp/assets/imgs/iStock_66234047_LARGE.jpeg);
+    padding: 20%;
+}
+
+.div2 {
+    text-align: center;
+}
+
+hr {
+    border: 3px solid orange;
+}
+
+.div2 h1 {
+    font-size: larger;
+}
+
+.div1 {
+
+    padding: 50px;
+    display: block;
+
+}
+
+.div2 {
+
+    height: 100%;
+    width: 100%;
+    background-color: orange;
+
+}
